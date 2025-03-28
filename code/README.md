@@ -8,8 +8,8 @@ Datasets
 
 Models:
 
-Logistic Regression
-XGBoost
-KNN
-Random Forest
-Neural Networks
+- Logistic Regression
+- XGBoost
+- KNN
+- Random Forest
+- Neural Networks
