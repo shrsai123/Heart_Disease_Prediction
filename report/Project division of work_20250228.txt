@@ -1,0 +1,11 @@
+Devansh:
+1) SVM
+2) KNN
+
+Shreyas Sai Raman:
+1) XGBoost
+2) Logistic Regression
+
+Amanda: 
+1) Exploratory Data Analysis
+
