@@ -1,10 +1,19 @@
 # References
 
+# Example Reference Papers
+
+Brandon_Simmons_Masters_Thesis-Final.pdf: research paper detailing the inconsitencies, discrepencies, and raw data corruption of UCI dataset.
+
+UCI_paper_example_2020.pdf: Masters research paper using the Cleveland subset (303 patients) of UCI dataset.
+
+Sample_report_Venkat.pdf: Professor's research paper as reference for structure, detail, and content.
+
+
+---------------------------------------------------------------------------------
 
 
 
-#Report
-References
+#Report References
 
 Baashar, Yahia. Gamal Alkawsi, Hitham Alhussian, Luiz Fernando Capretz, Ayed Alwadain, Ammar Ahmed Alkahtani, Malek Almomani. (2022, February 24). Effectiveness of Artificial Intelligence Models for Cardiovascular Disease Prediction: Network Meta-Analysis. Wiley Online Library.  https://onlinelibrary.wiley.com/doi/full/10.1155/2022/5849995 
 
