@@ -1,6 +1,6 @@
 # Amanda's Notes & Documentation
 
-Word documents contain consolidated information and reports.
+3 Word documents contain consolidated information and reports.
 
 Folders:
 
