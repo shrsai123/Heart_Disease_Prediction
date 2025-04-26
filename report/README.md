@@ -11,4 +11,3 @@ Report and Project documentation
 6. TA Check-in #2 with Jason: 3/28
    - migrated our work from Khoury Github to personal Githubs
    - Use sklearn for feature importance, validate results with SHAP.
-7. 
