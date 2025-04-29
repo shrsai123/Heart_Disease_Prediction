@@ -44,7 +44,7 @@ Both the Framingham Heart Study dataset and UCI Cleveland Heart Disease dataset 
 | `main.py` | Main application driver file; trains, evaluates, and visualizes models |
 | `src/data_loader.py` | Loads and cleans Framingham and UCI Heart Disease datasets |
 | `src/preprocessing.py` | Balances datasets (SMOTE), splits, and scales data |
-| `src/model.py` | Defines traditional ML models and PyTorch neural network |
+| `src/model.py` | Defines PyTorch neural network |
 | `src/train.py` | Contains training loops for ML and Neural Network models |
 | `src/evaluate.py` | Evaluation utilities: metrics, confusion matrices |
 | `src/hyperparameter_tuning.py` | Hyperparameter tuning using GridSearchCV |
