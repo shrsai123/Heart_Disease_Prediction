@@ -49,7 +49,7 @@ Both the Framingham Heart Study dataset and UCI Cleveland Heart Disease dataset 
 | `src/hyperparameter_tuning.py` | Hyperparameter tuning using GridSearchCV |
 | `src/visualize.py` | Plots classifier comparison metrics |
 | `src/interpret.py` | Generates SHAP feature importance plots |
-| `/raw_data` | Folder containing `framingham.csv` and `processed.cleveland.data` |
+| `raw_data/` | Folder containing `framingham.csv` and `processed.cleveland.data` |
 | `requirements.txt` | Python dependencies |
 | `README.md` | Project documentation |
 
@@ -80,9 +80,11 @@ Ensure you have the following installed to run the pipeline:
    cd Heart_Disease_Prediction
 
 2. Install Dependencies
+   ```bash
    pip install -r requirements.txt
 
 3. Run the main pipeline
+   ```bash
    python main.py
 
 ---
@@ -104,13 +106,17 @@ Ensure you have the following installed to run the pipeline:
 This project uses the following libraries and resources:
 
 [Scikit-learn](https://scikit-learn.org/stable/) for machine learning models
+
 [PyTorch](https://pytorch.org/tutorials/beginner/basics/intro.html) for building Neural Networks
+
 [XGBoost](https://xgboost.readthedocs.io/en/release_3.0.0/get_started.html) for gradient boosting models
+
 [SHAP](https://shap.readthedocs.io/en/latest/index.html) for model interpretation
 
 
 ### Resources
 
 [Framingham Heart Study](https://www.kaggle.com/datasets/sciencely/framingham-heart-study)
+
 [UCI Machine Learning Repository - Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
 
