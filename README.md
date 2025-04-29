@@ -5,7 +5,7 @@ Group: Amanda Pang, Shreyas Raman, Devansh Thakkar
 
 
 ## Overview
-This project builds a machine learning pipeline that predicts the likelihood of heart disease occurrence using multiple models, including Logistic Regression, K-Nearest Neighbors (KNN), XGBoost, and a Neural Network (PyTorch).  
+This project builds a machine learning pipeline that predicts the likelihood of heart disease occurrence using multiple models, including Random Forest, Logistic Regression, K-Nearest Neighbors (KNN), XGBoost, and a Neural Network (PyTorch).  
 It features automated class balancing (SMOTE), model interpretability (SHAP feature importance), and professional performance visualizations.  
 Both the Framingham Heart Study dataset and UCI Cleveland Heart Disease dataset are supported.
 
@@ -13,8 +13,9 @@ Both the Framingham Heart Study dataset and UCI Cleveland Heart Disease dataset 
 
 ## Features
 
-### Heart Disease Risk Prediction
+### Heart Disease Prediction
 - Supports prediction using four classifiers:
+  - Random Forest
   - Logistic Regression
   - K-Nearest Neighbors (KNN)
   - XGBoost Classifier
