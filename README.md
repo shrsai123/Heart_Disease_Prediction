@@ -51,8 +51,6 @@ Both the Framingham Heart Study dataset and UCI Cleveland Heart Disease dataset 
 | `src/interpret.py` | Generates SHAP feature importance plots |
 | `raw_data/` | Folder containing `framingham.csv` and `processed.cleveland.data` |
 | `requirements.txt` | Python dependencies |
-| `README.md` | Project documentation |
-
 ---
 
 
