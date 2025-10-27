@@ -88,19 +88,19 @@ Ensure you have the following installed to run the pipeline:
 
 ---
 
-### Model and Results
+## Model and Results
 1) Random Forest, Logistic Regression, KNN, XGBoost, and Neural Network models are trained and evaluated.
 2) Confusion Matrices, Class Distribution plots, and SHAP Feature Importance plots are automatically generated.
 3) Results are visualized via Matplotlib and Seaborn.
 4) Accuracy, Precision, and Recall scores for all models are compared via a unified bar plot.
 
-### Sample Visualizations:
+## Sample Visualizations:
 
 1) Classifier Comparison Bar Chart
 2) SHAP Feature Importance (for XGBoost)
 3) Class Distribution (Before vs After Balancing)
 
-### Acknowledgements
+## Acknowledgements
 
 This project uses the following libraries and resources:
 
@@ -113,7 +113,7 @@ This project uses the following libraries and resources:
 [SHAP](https://shap.readthedocs.io/en/latest/index.html) for model interpretation
 
 
-### Resources
+## Resources
 
 [Framingham Heart Study](https://www.kaggle.com/datasets/sciencely/framingham-heart-study)
 
