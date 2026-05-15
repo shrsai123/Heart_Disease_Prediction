@@ -50,7 +50,7 @@ def plot_classifier_comparison(results, save_path=None):
     ax.set_title("Classifier Performance Comparison", fontsize=18, weight="bold", pad=16)
     ax.set_xlabel("Classifier", fontsize=14)
     ax.set_ylabel("Metric Score", fontsize=14)
-    ax.set_ylim(0.40, 1.05)
+    ax.set_ylim(0, 1.05)
 
     ax.tick_params(axis="x", labelsize=12, rotation=25)
     ax.tick_params(axis="y", labelsize=12)
